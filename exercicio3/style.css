@@ -41,4 +41,9 @@
     text-align: center;
     color: white;
   }
-  
+  body{
+    border-image-width: auto;
+    align-items: center;
+    background-color:#5e5e5e;
+    text-align: center;
+  }
